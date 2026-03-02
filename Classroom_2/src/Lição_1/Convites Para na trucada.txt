@@ -1,0 +1,26 @@
+Convites Para na trucada.txt
+-------------------------------------
+Convite para makita Tigre:
+
+E aí, makita Tigre!
+Que tal um(a) trucada sinistra neste fim de semana?
+Será no(a) quinta, 22h em SENAI.
+Por favor, me chama no ZAP
+Conto com a sua presença!
+Abraço,
+[Seu Nome]
+-------------------------------------
+
+Digite o nome do amigo (ou 'fim' para terminar): chave phillips
+
+-------------------------------------
+Convite para chave phillips:
+
+E aí, chave phillips!
+Que tal um(a) trucada sinistra neste fim de semana?
+Será no(a) quinta, 22h em SENAI.
+Por favor, me chama no ZAP
+Conto com a sua presença!
+Abraço,
+[Seu Nome]
+-------------------------------------
